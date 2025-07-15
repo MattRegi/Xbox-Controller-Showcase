@@ -22,4 +22,4 @@ After months of studying and building smaller pieces, I wanted to create somethi
 
 ## 🔗 Live Demo
 
-[View the site on GitHub Pages]([https://mattregi.github.io/Xbox-Controller-Showcase/])
+[View the site on GitHub Pages](https://mattregi.github.io/Xbox-Controller-Showcase/)
